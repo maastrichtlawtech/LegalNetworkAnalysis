@@ -5,7 +5,7 @@ A textbook on legal network analysis is under development and will be released s
 
 # Software
 * [Case Law Explorer](https://maastrichtlawtech.github.io/case-explorer-ui/#/userguide/)
-Network analysis software for Dutch case law (European cases to be added). Developed by the [Maastricht Law and Tech Lab](https://www.maastrichtuniversity.nl/about-um/faculties/law/research/law-and-tech-lab) and the [Brightlands Institute for Smart Society](https://www.biss-institute.com/) 
+Network analysis software for Dutch case law (European cases to be added). Developed by the [Maastricht Law and Tech Lab](https://www.maastrichtuniversity.nl/about-um/faculties/law/research/law-and-tech-lab)and the [Brightlands Institute for Smart Society](https://www.biss-institute.com/)
 
 # Publications
 An overview of publications on legal network analysis is under development and will be published soon.
