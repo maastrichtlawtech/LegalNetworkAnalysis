@@ -1,4 +1,5 @@
-Legal Network Analysis (LNA) refers to the application of network analysis to a legal context, which can concern legislation, case law, networks of criminals, patents, networks of lawyers etc. This site provides resources on LNA.
+This site provides resources on Legal Network Analysis (LNA), which refers to the application of network analysis to a legal context, which can concern legislation, case law, networks of criminals, patents, networks of lawyers etc.
+
 
 # Textbook
 A textbook on legal network analysis is under development and will be released soon.
