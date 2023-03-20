@@ -6,3 +6,4 @@
 * [Videos](/?id=Videos) 
 * [Software](/?id=Software)
 * [Legal Network Analysis Workshop Series](/?id=Legal-Network-Analysis-Workshop-Series)
+* [Contact](/?id=Contact)
