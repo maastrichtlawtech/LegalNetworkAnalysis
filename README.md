@@ -8,11 +8,11 @@ A textbook on legal network analysis is under development and will be released s
 An overview of publications on legal network analysis is under development and will be published soon.
 
 # Videos
-* [Network Analysis and the Law](https://play.umu.se/media/t/0_xvu5g1bd)
+* [Network Analysis and the Law](https://play.umu.se/media/t/0_xvu5g1bd)<br>
 Presentation on the goals of network analysis. By Johan Lindholm. Legal Network Analysis Workshop, 2 February 2023.
 
 # Software
-* [Case Law Explorer](https://maastrichtlawtech.github.io/case-explorer-ui/#/userguide/)
+* [Case Law Explorer](https://maastrichtlawtech.github.io/case-explorer-ui/#/userguide/)<br>
 Network analysis software for Dutch case law (European cases to be added). Developed by the [Maastricht Law and Tech Lab](https://www.maastrichtuniversity.nl/about-um/faculties/law/research/law-and-tech-lab)and the [Brightlands Institute for Smart Society](https://www.biss-institute.com/)
 
 # Legal Network Analysis Workshop Series
