@@ -22,6 +22,8 @@ Presentation on the goals of network analysis. By Johan Lindholm. Legal Network 
 # Software
 * [Case Law Explorer](https://maastrichtlawtech.github.io/case-explorer-ui/#/userguide/)<br>
 Network analysis software for Dutch case law (European cases to be added). Developed by the [Maastricht Law and Tech Lab](https://www.maastrichtuniversity.nl/about-um/faculties/law/research/law-and-tech-lab)and the [Brightlands Institute for Smart Society](https://www.biss-institute.com/)
+* [Tessuto Normativo Italiano](https://labs.marcocimolai.xyz/)<br>
+Network analysis software for Italian legislation.
 <br>
 <br>
 
