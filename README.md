@@ -9,7 +9,7 @@ A textbook on legal network analysis is under development and will be released s
 <br>
 
 # Publications
-An overview of publications on legal network analysis is under development and will be published soon.
+An overview of publications on legal network analysis can be found [HERE](https://docs.google.com/spreadsheets/d/141XYwo0EK0TrenPnI9q95ZVYRfs3By0W/edit?usp=sharing&ouid=101337972402489378078&rtpof=true&sd=true). Feel free to add suggestions.
 <br>
 <br>
 
