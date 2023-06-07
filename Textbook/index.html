@@ -59,6 +59,22 @@
       font-weight: bold;
       font-size: 18px;
     }
+    .google-colab {
+      margin-bottom: 30px;
+      text-align: center;
+    }
+    .github-link {
+      display: flex;
+      justify-content: center;
+      margin-bottom: 30px;
+    }
+    .github-link a {
+      padding: 10px 20px;
+      background-color: #333;
+      color: #fff;
+      text-decoration: none;
+      border-radius: 5px;
+    }
   </style>
 </head>
 <body>
@@ -69,27 +85,20 @@
     <div class="sidebar">
       <h3>Table of Contents</h3>
       <ul class="toc">
-        <li><a href="#pdf1">Chapter 1</a></li>
-        <li><a href="#pdf2">Chapter 2</a></li>
-        <li><a href="#pdf3">Chapter 3</a></li>
+        <li><a href="#google-colab">Access on Google Colab</a></li>
+        <li><a href="#github-link">Access GitHub repo</a></li>
+        <li><a href="#pdf">Access via PDF</a></li>
       </ul>
     </div>
     <div class="main-content">
-      <div class="pdf-container" id="pdf1">
-        <h2 class="pdf-title">Chapter 1</h2>
+      <div class="google-colab" id="google-colab">
+        <a href="https://colab.research.google.com/drive/1GV_-ti9MbWetwpWBST2O_6EeKHt3S5rS" target="_blank">Open in Google Colab</a>
+      </div>
+      <div class="github-link" id="github-link">
+        <a href="https://github.com/maastrichtlawtech/legalnetworkanalysis_textbook" target="_blank">GitHub Repository</a>
+      </div>
+      <div class="pdf-container" id="pdf">
+        <h2 class="pdf-title">Full-text (in pdf)</h2>
         <iframe class="pdf-iframe" src="legal network analysis.pdf"></iframe>
       </div>
-
-      <div class="pdf-container" id="pdf2">
-        <h2 class="pdf-title">Chapter 2</h2>
-        <iframe class="pdf-iframe" src="legal network analysis.pdf"></iframe>
-      </div>
-
-      <div class="pdf-container" id="pdf3">
-        <h2 class="pdf-title">Chapter 3</h2>
-        <iframe class="pdf-iframe" src="legal network analysis.pdf"></iframe>
-      </div>
-    </div>
-  </div>
-</body>
-</html>
+      <div class="pdf
