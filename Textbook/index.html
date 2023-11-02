@@ -23,6 +23,16 @@
       flex: 0 0 250px;
       background-color: #f2f2f2;
       padding: 20px;
+      position: fixed; /* Set sidebar to fixed position */
+      top: 0; /* Align it to the top of the viewport */
+      left: 0; /* Align it to the left of the viewport */
+      height: 100%; /* Make the sidebar cover the full viewport height */
+    }
+    .content-container {
+      margin-left: 250px; /* Adjust margin to account for the fixed sidebar width */
+      flex: 1;
+      background-color: #fff;
+      padding: 20px;
     }
     .main-content {
       flex: 1;
@@ -110,7 +120,6 @@
       </div>
       <div class="github-link" id="github-link">
         <a href="https://github.com/maastrichtlawtech/legalnetworkanalysis_textbook" target="_blank">GitHub Repository</a>
-      </div>
       </div>
     </div>
   </div>
