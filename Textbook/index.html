@@ -9,12 +9,11 @@
       padding: 0;
       background-image: url('lab logo.jpg');
       background-size: cover;
-      background-attachment: fixed;
-      text-align: center; /* Center the content */
-      display: flex;
-      flex-direction: column;
-      justify-content: center;
-      align-items: center;
+    }
+    body {
+      font-family: 'Helvetica Neue', Arial, sans-serif;
+      margin: 0;
+      padding: 0;
     }
     header {
       background-color: #333;
@@ -41,19 +40,56 @@
       text-align: center;
       margin-bottom: 30px;
     }
-    .btn-container {
+    .pdf-container {
+      margin-bottom: 50px;
+    }
+    .pdf-title {
+      font-size: 24px;
+      margin-bottom: 20px;
+    }
+    .pdf-iframe {
+      width: 100%;
+      height: 800px;
+      border: none;
+    }
+    .toc {
+      list-style-type: none;
+      padding: 0;
+      margin-bottom: 20px;
+    }
+    .toc li {
+      margin-bottom: 10px;
+    }
+    .toc a {
+      text-decoration: none;
+      color: #333;
+      font-weight: bold;
+      font-size: 18px;
+    }
+    .output-type {
+      background-color: #f2f2f2;
+      padding: 20px;
+      margin-bottom: 20px;
+    }
+    .output-type h3 {
+      margin: 0;
+    }
+    .output-type a {
+      text-decoration: none;
+      color: #333;
+      font-weight: bold;
+    }
+    .github-link {
       display: flex;
       justify-content: center;
-      align-items: center;
-      margin-top: 20px;
+      margin-bottom: 30px;
     }
-    .btn {
+    .github-link a {
+      padding: 10px 20px;
       background-color: #333;
       color: #fff;
-      padding: 10px 20px;
       text-decoration: none;
       border-radius: 5px;
-      margin: 10px;
     }
   </style>
 </head>
@@ -86,10 +122,6 @@
       </div>
       </div>
     </div>
-  </div>
-    <div class="btn-container">
-    <a class="btn" href="https://colab.research.google.com/drive/1GV_-ti9MbWetwpWBST2O_6EeKHt3S5rS" target="_blank">Open in Google Colab</a>
-    <a class="btn" href="https://github.com/maastrichtlawtech/legalnetworkanalysis_textbook" target="_blank">GitHub Repository</a>
   </div>
 </body>
 </html>
