@@ -59,14 +59,22 @@
       font-weight: bold;
       font-size: 18px;
     }
-    .google-colab {
+    .output-type {
+      background-color: #f2f2f2;
+      padding: 20px;
+      margin-bottom: 20px;
+    }
+    .output-type h3 {
+      margin: 0;
+    }
+    .output-type a {
+      text-decoration: none;
+      color: #333;
+      font-weight: bold;
+    }
+    .google-colab, .pdf-link, .github-link {
       margin-bottom: 30px;
       text-align: center;
-    }
-    .github-link {
-      display: flex;
-      justify-content: center;
-      margin-bottom: 30px;
     }
     .github-link a {
       padding: 10px 20px;
@@ -74,6 +82,12 @@
       color: #fff;
       text-decoration: none;
       border-radius: 5px;
+    }
+    .image-placeholder {
+      background-image: url('placeholder-image.jpg'); /* Specify the path to your image */
+      background-size: cover;
+      width: 100%;
+      height: 400px;
     }
   </style>
 </head>
@@ -86,21 +100,31 @@
       <h3>Table of Contents</h3>
       <ul class="toc">
         <li><a href="#google-colab">Access on Google Colab</a></li>
+        <li><a href="#pdf-link">Access via PDF</a></li>
         <li><a href="#github-link">Access GitHub repo</a></li>
-        <li><a href="#pdf">Access via PDF</a></li>
       </ul>
     </div>
     <div class="main-content">
-      <div class="google-colab" id="google-colab">
+      <div class="output-type google-colab" id="google-colab">
+        <h3>Google Colab</h3>
         <a href="https://colab.research.google.com/drive/1GV_-ti9MbWetwpWBST2O_6EeKHt3S5rS" target="_blank">Open in Google Colab</a>
       </div>
-      <div class="github-link" id="github-link">
+      <div class="output-type pdf-link" id="pdf-link">
+        <h3>PDF Version</h3>
+        <a href="legal_network_analysis.pdf">Download PDF</a>
+      </div>
+      <div class="output-type github-link" id="github-link">
+        <h3>GitHub Repository</h3>
         <a href="https://github.com/maastrichtlawtech/legalnetworkanalysis_textbook" target="_blank">GitHub Repository</a>
       </div>
       <div class="pdf-container" id="pdf">
         <h2 class="pdf-title">Full-text (in pdf)</h2>
         <object class="pdf-object" data="legal_network_analysis.pdf" type="application/pdf" width="100%" height="800px">
-          If you are unable to view the PDF, you can download it <a href="legal network analysis.pdf">here</a>.
+          If you are unable to view the PDF, you can download it <a href="legal_network_analysis.pdf">here</a>.
         </object>
       </div>
-
+      <div class="image-placeholder" id="image-placeholder"></div>
+    </div>
+  </div>
+</body>
+</html>
