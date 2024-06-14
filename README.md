@@ -30,7 +30,7 @@ You can extract nodes and edges lists for selected datasets with the following e
 # Software
 * [Case Law Explorer](https://www.caselawexplorer.tech/) - Network analysis software for Dutch case law (European cases to be added). Developed by the [Maastricht Law and Tech Lab](https://www.maastrichtuniversity.nl/about-um/faculties/law/research/law-and-tech-lab) and the [Brightlands Institute for Smart Society](https://www.biss-institute.com/). License: Apache 2.0 license.
 * [Tessuto Normativo Italiano](https://labs.marcocimolai.xyz/) - Network analysis software for Italian legislation.
-* [Gephi](https://gephi.org/). General-purpose network analysis software. License: CDDL 1.0 and GNU General Public License v3.
+* [Gephi](https://gephi.org/) - General-purpose network analysis software. License: CDDL 1.0 and GNU General Public License v3.
 * [Cytoscape](https://cytoscape.org/) - General-purpose network analysis software. License: GNU LGPL.
 * [NetworkX](https://networkx.org/) - Python module. License: 3-clause BSD license.
 * [NetworKit](https://networkit.github.io/) - Python module. License: MIT.
