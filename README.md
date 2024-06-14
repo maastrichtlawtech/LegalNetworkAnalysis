@@ -4,18 +4,26 @@ This site provides resources on Legal Network Analysis (LNA), which refers to th
 <br>
 
 # Textbook
-A textbook on legal network analysis is under development and will be released soon.
+A textbook on legal network analysis can be found [HERE](https://maastrichtlawtech.github.io/LegalNetworkAnalysis/Textbook/).
 <br>
 <br>
 
 # Publications
-An overview of publications on legal network analysis can be found [HERE](https://docs.google.com/spreadsheets/d/141XYwo0EK0TrenPnI9q95ZVYRfs3By0W/edit?usp=sharing&ouid=101337972402489378078&rtpof=true&sd=true). Feel free to add suggestions.
+An overview of publications on legal network analysis can be found [HERE](https://docs.google.com/spreadsheets/d/141XYwo0EK0TrenPnI9q95ZVYRfs3By0W/edit?usp=sharing&ouid=101337972402489378078&rtpof=true&sd=true). Contact law-techlab@maastrichtuniversity.nl if you would like to add publications to the overview.
 <br>
 <br>
 
 # Videos
 * [Network Analysis and the Law](https://play.umu.se/media/t/0_xvu5g1bd)<br>
 Presentation on the goals of network analysis. By Johan Lindholm. Legal Network Analysis Workshop, 2 February 2023.
+<br>
+<br>
+
+# Data
+You can extract nodes and edges lists for selected datasets with the following extractors:
+* [European Court of European Union (ECtHR)](https://pypi.org/project/echr-extractor/)
+* [Court of Justice of the European Union (CJEU)](https://pypi.org/project/cellar-extractor/)
+* [Case Law in the Netherlands](https://pypi.org/project/rechtspraak-extractor/)
 <br>
 <br>
 
